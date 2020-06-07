@@ -2,8 +2,6 @@
     Mapa Saúde
 </h1>
 
-<a id="sobre"></a>
-
 ## :bookmark: Sobre
 
 Desenvolvimento de uma aplicação de consulta de serviços de saúde.
@@ -12,7 +10,6 @@ Como consequência da pandemia do Covid-19, aumentou a procura de serviços de s
 
 No App é possível localizar locais de saúde através da sua localização, usando a API pública do serviços de saúde do Brasil.
 
-## :heavy_check_mark: Resultado
 
 <a id="tecnologias-utilizadas"></a>
 
