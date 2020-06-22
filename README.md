@@ -5,7 +5,6 @@
     Mapa Saúde
 </h1>
 
-## :bookmark: Sobre
 
 Desenvolvimento de uma aplicação de consulta de serviços de saúde.
 
@@ -38,7 +37,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     <img alt="Detail" title="#Detail" width="300px" src=".github/4.png">
 </h4>
 
+
+
 ## App publicado no Google Play
+
 
 <img alt="Home" title="#home" src=".github/01.png">
 
