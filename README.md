@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 </h4>
 ## App publicado no Google Play
 
-    <img alt="Home" title="#home" width="700px" src=".github/01.png">
+<img alt="Home" title="#home" src=".github/01.png">
 
 ---
 
